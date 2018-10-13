@@ -1,5 +1,7 @@
 # sandbox
 
+[![Build Status](https://travis-ci.com/JaredCorduan/sandbox.svg?branch=master)](https://travis-ci.com/JaredCorduan/sandbox)
+
 ## Reptiles
 
 ```
