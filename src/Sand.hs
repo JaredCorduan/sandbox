@@ -3,4 +3,4 @@ module Sand
     ) where
 
 hasSand :: Bool
-hasSand = (True && True)
+hasSand = True
