@@ -1,3 +1,3 @@
 :spider:
 
-:alembic:
+:alembic: :books:
